@@ -4,7 +4,7 @@ const f1 = async(prop) => {
 
 
     url=`https://backend_api_here`
-abc(prop,url)
+var abc = (prop,url) =>
 {
 ....}///additional function which u need to be private here and also can be returned if needed
 
